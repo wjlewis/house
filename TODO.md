@@ -2,6 +2,8 @@
 
 - [ ] Continue to rough out ideas on paper.
 - [ ] Draw up promising designs in Blender.
+- [ ] Can we create our own blueprints (e.g. in Inkscape + Blender)?
+- [ ] What's required for a building permit?
 
 ## Skills
 
